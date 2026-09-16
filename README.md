@@ -7,6 +7,7 @@ A simple and elegant calculator application built to practice programming fundam
 - Multiplication ✖️
 - Division ➗
 - Simple and easy to use interface 📱
+- Math made simple, answers made instant 🚀
 
 ## Built with 🛠️
 - Java ☕
